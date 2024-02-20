@@ -1,0 +1,14 @@
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\bin\Debug\net8.0\FinalControlWork.exe
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\bin\Debug\net8.0\FinalControlWork.deps.json
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\bin\Debug\net8.0\FinalControlWork.runtimeconfig.json
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\bin\Debug\net8.0\FinalControlWork.dll
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\bin\Debug\net8.0\FinalControlWork.pdb
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.AssemblyInfoInputs.cache
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.AssemblyInfo.cs
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.csproj.CoreCompileInputs.cache
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.dll
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\refint\FinalControlWork.dll
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.pdb
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\FinalControlWork.genruntimeconfig.cache
+D:\Tanya\GeekBrains\HomeWork\FinalControlWork\obj\Debug\net8.0\ref\FinalControlWork.dll
